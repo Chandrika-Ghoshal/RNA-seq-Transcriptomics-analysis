@@ -66,7 +66,7 @@ The goal of this project is to reproduce and explore transcriptomic patterns ass
   * Adjusted p-value (FDR) < 0.05
   * |log2 Fold Change| ≥ 1
 
-### 4. Quantification
+### 5. Quantification
   * Tool: featureCounts
   * Output: Gene expression count matrix
 ---
