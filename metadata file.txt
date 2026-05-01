@@ -1,0 +1,13 @@
+Sample	Condition
+SRR17163539	Susceptible_I
+SRR17163540	Susceptible_M
+SRR17163541	Susceptible_M
+SRR17163542	Susceptible_M
+SRR17163543	Resistant_I
+SRR17163544	Resistant_I
+SRR17163545	Resistant_I
+SRR17163546	Resistant_M
+SRR17163547	Susceptible_I
+SRR17163548	Susceptible_I
+SRR17163549	Resistant_M
+SRR17163550	Resistant_M

@@ -1,0 +1,12 @@
+SRR17163539	/home/Chandrika/Transcriptomics/Sl39_transcripts.gtf
+SRR17163540	/home/Chandrika/Transcriptomics/Sl40_transcripts.gtf
+SRR17163541	/home/Chandrika/Transcriptomics/Sl41_transcripts.gtf
+SRR17163542	/home/Chandrika/Transcriptomics/Sl42_transcripts.gtf
+SRR17163543	/home/Chandrika/Transcriptomics/Sl43_transcripts.gtf
+SRR17163544	/home/Chandrika/Transcriptomics/Sl44_transcripts.gtf
+SRR17163545	/home/Chandrika/Transcriptomics/Sl45_transcripts.gtf
+SRR17163546	/home/Chandrika/Transcriptomics/Sl46_transcripts.gtf
+SRR17163547	/home/Chandrika/Transcriptomics/Sl47_transcripts.gtf
+SRR17163548	/home/Chandrika/Transcriptomics/Sl48_transcripts.gtf
+SRR17163549	/home/Chandrika/Transcriptomics/Sl49_transcripts.gtf
+SRR17163550	/home/Chandrika/Transcriptomics/Sl50_transcripts.gtf
